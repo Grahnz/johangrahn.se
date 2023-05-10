@@ -1,0 +1,24 @@
+{
+  "name": "johangrahn.se",
+  "version": "1.0.0",
+  "description": "personal site",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel serve -p 1337",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grahnz/johangrahn.se.git"
+  },
+  "author": "Johan Grahn",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Grahnz/johangrahn.se/issues"
+  },
+  "homepage": "https://github.com/Grahnz/johangrahn.se#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
